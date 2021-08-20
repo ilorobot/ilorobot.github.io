@@ -17,6 +17,24 @@
     </item>
     
     <item>
+      <title>All STL components</title>
+      <link>https://ilorobot.github.io/products/2-stl-files/</link>
+      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
+      
+      <guid>https://ilorobot.github.io/products/2-stl-files/</guid>
+      <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
+    </item>
+    
+    <item>
+      <title>Electronics components</title>
+      <link>https://ilorobot.github.io/products/3-electronics-components/</link>
+      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
+      
+      <guid>https://ilorobot.github.io/products/3-electronics-components/</guid>
+      <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
+    </item>
+    
+    <item>
       <title>Human Gut Microbes Could Make Processed Foods Healthier</title>
       <link>https://ilorobot.github.io/blog/post-2/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
@@ -35,83 +53,20 @@
     </item>
     
     <item>
-      <title>Taba Cream</title>
-      <link>https://ilorobot.github.io/products/taba-cream.1/</link>
+      <title>Omnidirectional STL wheels</title>
+      <link>https://ilorobot.github.io/products/1-stl-wheels/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
       
-      <guid>https://ilorobot.github.io/products/taba-cream.1/</guid>
+      <guid>https://ilorobot.github.io/products/1-stl-wheels/</guid>
       <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
     </item>
     
     <item>
-      <title>Taba Cream</title>
-      <link>https://ilorobot.github.io/products/taba-cream.2/</link>
+      <title>Ready-to-use ilo</title>
+      <link>https://ilorobot.github.io/products/4-ready-to-use-ilo/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
       
-      <guid>https://ilorobot.github.io/products/taba-cream.2/</guid>
-      <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
-    </item>
-    
-    <item>
-      <title>Taba Cream</title>
-      <link>https://ilorobot.github.io/products/taba-cream/</link>
-      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
-      
-      <guid>https://ilorobot.github.io/products/taba-cream/</guid>
-      <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
-    </item>
-    
-    <item>
-      <title>Taba Facewash</title>
-      <link>https://ilorobot.github.io/products/taba-facewash.1/</link>
-      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
-      
-      <guid>https://ilorobot.github.io/products/taba-facewash.1/</guid>
-      <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
-    </item>
-    
-    <item>
-      <title>Taba Facewash</title>
-      <link>https://ilorobot.github.io/products/taba-facewash.2/</link>
-      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
-      
-      <guid>https://ilorobot.github.io/products/taba-facewash.2/</guid>
-      <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
-    </item>
-    
-    <item>
-      <title>Taba Facewash</title>
-      <link>https://ilorobot.github.io/products/taba-facewash/</link>
-      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
-      
-      <guid>https://ilorobot.github.io/products/taba-facewash/</guid>
-      <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
-    </item>
-    
-    <item>
-      <title>Taba Shampoo</title>
-      <link>https://ilorobot.github.io/products/taba-shampoo.1/</link>
-      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
-      
-      <guid>https://ilorobot.github.io/products/taba-shampoo.1/</guid>
-      <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
-    </item>
-    
-    <item>
-      <title>Taba Shampoo</title>
-      <link>https://ilorobot.github.io/products/taba-shampoo.2/</link>
-      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
-      
-      <guid>https://ilorobot.github.io/products/taba-shampoo.2/</guid>
-      <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
-    </item>
-    
-    <item>
-      <title>Taba Shampoo</title>
-      <link>https://ilorobot.github.io/products/taba-shampoo/</link>
-      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
-      
-      <guid>https://ilorobot.github.io/products/taba-shampoo/</guid>
+      <guid>https://ilorobot.github.io/products/4-ready-to-use-ilo/</guid>
       <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
     </item>
     
