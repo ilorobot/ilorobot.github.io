@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Latest News on ilo the robot</title>
+    <link>https://ilorobot.com/blog/</link>
+    <description>Recent content in Latest News on ilo the robot</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 01 Apr 2021 00:00:00 +0100</lastBuildDate><atom:link href="https://ilorobot.com/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pretty-print dates</title>
+      <link>https://ilorobot.com/blog/date-i18n/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0100</pubDate>
+      
+      <guid>https://ilorobot.com/blog/date-i18n/</guid>
+      <description>To write out an ISO 8601 timestamp in the current language, you can use the date_l10n shortcode:</description>
+    </item>
+    
+    <item>
+      <title>How To Wear Bright Shoes</title>
+      <link>https://ilorobot.com/blog/blog-post-1/</link>
+      <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
+      
+      <guid>https://ilorobot.com/blog/blog-post-1/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit vitae placeat ad architecto nostrum asperiores vel aperiam, veniam eum nulla.</description>
+    </item>
+    
+    <item>
+      <title>How To Wear Bright Shoes</title>
+      <link>https://ilorobot.com/blog/blog-post-2/</link>
+      <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
+      
+      <guid>https://ilorobot.com/blog/blog-post-2/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit vitae placeat ad architecto nostrum asperiores vel aperiam, veniam eum nulla.</description>
+    </item>
+    
+    <item>
+      <title>How To Wear Bright Shoes</title>
+      <link>https://ilorobot.com/blog/blog-post-3/</link>
+      <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
+      
+      <guid>https://ilorobot.com/blog/blog-post-3/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit vitae placeat ad architecto nostrum asperiores vel aperiam, veniam eum nulla.</description>
+    </item>
+    
+    <item>
+      <title>How To Wear Bright Shoes</title>
+      <link>https://ilorobot.com/blog/blog-post-4/</link>
+      <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
+      
+      <guid>https://ilorobot.com/blog/blog-post-4/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit vitae placeat ad architecto nostrum asperiores vel aperiam, veniam eum nulla.</description>
+    </item>
+    
+    <item>
+      <title>How To Wear Bright Shoes</title>
+      <link>https://ilorobot.com/blog/blog-post-5/</link>
+      <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
+      
+      <guid>https://ilorobot.com/blog/blog-post-5/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit vitae placeat ad architecto nostrum asperiores vel aperiam, veniam eum nulla.</description>
+    </item>
+    
+    <item>
+      <title>How To Wear Bright Shoes</title>
+      <link>https://ilorobot.com/blog/blog-post-6/</link>
+      <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
+      
+      <guid>https://ilorobot.com/blog/blog-post-6/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit vitae placeat ad architecto nostrum asperiores vel aperiam, veniam eum nulla.</description>
+    </item>
+    
+  </channel>
+</rss>
