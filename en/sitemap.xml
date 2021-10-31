@@ -11,6 +11,16 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="it"
+                href="https://ilorobot.github.io/it/faq/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://ilorobot.github.io/de/faq/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en"
                 href="https://ilorobot.github.io/faq/"
                 />
@@ -21,6 +31,16 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://ilorobot.github.io/fr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://ilorobot.github.io/it/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://ilorobot.github.io/de/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -37,6 +57,16 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="it"
+                href="https://ilorobot.github.io/it/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://ilorobot.github.io/de/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en"
                 href="https://ilorobot.github.io/categories/"
                 />
@@ -47,6 +77,16 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://ilorobot.github.io/fr/tags/how-to/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://ilorobot.github.io/it/tags/how-to/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://ilorobot.github.io/de/tags/how-to/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -63,6 +103,16 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="it"
+                href="https://ilorobot.github.io/it/blog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://ilorobot.github.io/de/blog/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en"
                 href="https://ilorobot.github.io/blog/"
                 />
@@ -73,6 +123,16 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://ilorobot.github.io/fr/blog/date-i18n/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://ilorobot.github.io/it/blog/date-i18n/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://ilorobot.github.io/de/blog/date-i18n/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -89,6 +149,16 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="it"
+                href="https://ilorobot.github.io/it/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://ilorobot.github.io/de/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en"
                 href="https://ilorobot.github.io/tags/"
                 />
@@ -99,6 +169,16 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://ilorobot.github.io/fr/categories/technical-assistance/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://ilorobot.github.io/it/categories/technical-assistance/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://ilorobot.github.io/de/categories/technical-assistance/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -115,6 +195,16 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="it"
+                href="https://ilorobot.github.io/it/tags/technology/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://ilorobot.github.io/de/tags/technology/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en"
                 href="https://ilorobot.github.io/tags/technology/"
                 />
@@ -125,6 +215,16 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://ilorobot.github.io/fr/tags/advice/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://ilorobot.github.io/it/tags/advice/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://ilorobot.github.io/de/tags/advice/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -141,6 +241,16 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="it"
+                href="https://ilorobot.github.io/it/tags/ai/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://ilorobot.github.io/de/tags/ai/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en"
                 href="https://ilorobot.github.io/tags/ai/"
                 />
@@ -151,6 +261,16 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://ilorobot.github.io/fr/tags/android/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://ilorobot.github.io/it/tags/android/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://ilorobot.github.io/de/tags/android/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -167,6 +287,16 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="it"
+                href="https://ilorobot.github.io/it/categories/artificial-intelligence/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://ilorobot.github.io/de/categories/artificial-intelligence/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en"
                 href="https://ilorobot.github.io/categories/artificial-intelligence/"
                 />
@@ -177,6 +307,16 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://ilorobot.github.io/fr/tags/company/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://ilorobot.github.io/it/tags/company/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://ilorobot.github.io/de/tags/company/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -193,6 +333,16 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="it"
+                href="https://ilorobot.github.io/it/categories/company-news/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://ilorobot.github.io/de/categories/company-news/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en"
                 href="https://ilorobot.github.io/categories/company-news/"
                 />
@@ -203,6 +353,16 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://ilorobot.github.io/fr/blog/blog-post-1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://ilorobot.github.io/it/blog/blog-post-1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://ilorobot.github.io/de/blog/blog-post-1/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -219,6 +379,16 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="it"
+                href="https://ilorobot.github.io/it/blog/blog-post-2/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://ilorobot.github.io/de/blog/blog-post-2/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en"
                 href="https://ilorobot.github.io/blog/blog-post-2/"
                 />
@@ -229,6 +399,16 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://ilorobot.github.io/fr/blog/blog-post-3/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://ilorobot.github.io/it/blog/blog-post-3/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://ilorobot.github.io/de/blog/blog-post-3/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -245,6 +425,16 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="it"
+                href="https://ilorobot.github.io/it/blog/blog-post-4/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://ilorobot.github.io/de/blog/blog-post-4/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en"
                 href="https://ilorobot.github.io/blog/blog-post-4/"
                 />
@@ -255,6 +445,16 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://ilorobot.github.io/fr/blog/blog-post-5/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://ilorobot.github.io/it/blog/blog-post-5/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://ilorobot.github.io/de/blog/blog-post-5/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -271,6 +471,16 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="it"
+                href="https://ilorobot.github.io/it/blog/blog-post-6/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://ilorobot.github.io/de/blog/blog-post-6/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en"
                 href="https://ilorobot.github.io/blog/blog-post-6/"
                 />
@@ -281,6 +491,16 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://ilorobot.github.io/fr/categories/legacy-support/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://ilorobot.github.io/it/categories/legacy-support/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://ilorobot.github.io/de/categories/legacy-support/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -297,6 +517,16 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="it"
+                href="https://ilorobot.github.io/it/tags/mechine/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://ilorobot.github.io/de/tags/mechine/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en"
                 href="https://ilorobot.github.io/tags/mechine/"
                 />
@@ -307,6 +537,16 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://ilorobot.github.io/fr/tags/news/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://ilorobot.github.io/it/tags/news/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://ilorobot.github.io/de/tags/news/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -323,6 +563,16 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="it"
+                href="https://ilorobot.github.io/it/tags/retro/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://ilorobot.github.io/de/tags/retro/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en"
                 href="https://ilorobot.github.io/tags/retro/"
                 />
@@ -332,6 +582,16 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://ilorobot.github.io/fr/message_sent/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://ilorobot.github.io/it/message_sent/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://ilorobot.github.io/de/message_sent/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -347,6 +607,16 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="it"
+                href="https://ilorobot.github.io/it/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://ilorobot.github.io/de/about/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en"
                 href="https://ilorobot.github.io/about/"
                 />
@@ -356,6 +626,16 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://ilorobot.github.io/fr/author/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://ilorobot.github.io/it/author/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://ilorobot.github.io/de/author/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -371,6 +651,16 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="it"
+                href="https://ilorobot.github.io/it/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://ilorobot.github.io/de/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en"
                 href="https://ilorobot.github.io/contact/"
                 />
@@ -380,6 +670,16 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://ilorobot.github.io/fr/author/john-doe/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://ilorobot.github.io/it/author/john-doe/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://ilorobot.github.io/de/author/john-doe/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -395,6 +695,16 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="it"
+                href="https://ilorobot.github.io/it/author/mark-dinn/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://ilorobot.github.io/de/author/mark-dinn/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en"
                 href="https://ilorobot.github.io/author/mark-dinn/"
                 />
@@ -404,6 +714,16 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://ilorobot.github.io/fr/pricing/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://ilorobot.github.io/it/pricing/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://ilorobot.github.io/de/pricing/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -419,6 +739,16 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="it"
+                href="https://ilorobot.github.io/it/project/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://ilorobot.github.io/de/project/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en"
                 href="https://ilorobot.github.io/project/"
                 />
@@ -428,6 +758,16 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://ilorobot.github.io/fr/project/rio-furniture-1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://ilorobot.github.io/it/project/rio-furniture-1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://ilorobot.github.io/de/project/rio-furniture-1/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -443,6 +783,16 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="it"
+                href="https://ilorobot.github.io/it/project/rio-furniture-2/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://ilorobot.github.io/de/project/rio-furniture-2/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en"
                 href="https://ilorobot.github.io/project/rio-furniture-2/"
                 />
@@ -452,6 +802,16 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://ilorobot.github.io/fr/project/rio-furniture-3/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://ilorobot.github.io/it/project/rio-furniture-3/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://ilorobot.github.io/de/project/rio-furniture-3/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -467,6 +827,16 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="it"
+                href="https://ilorobot.github.io/it/project/rio-furniture-4/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://ilorobot.github.io/de/project/rio-furniture-4/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en"
                 href="https://ilorobot.github.io/project/rio-furniture-4/"
                 />
@@ -476,6 +846,16 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://ilorobot.github.io/fr/project/rio-furniture-5/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://ilorobot.github.io/it/project/rio-furniture-5/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://ilorobot.github.io/de/project/rio-furniture-5/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -491,6 +871,16 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="it"
+                href="https://ilorobot.github.io/it/project/rio-furniture-6/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://ilorobot.github.io/de/project/rio-furniture-6/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en"
                 href="https://ilorobot.github.io/project/rio-furniture-6/"
                 />
@@ -500,6 +890,16 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://ilorobot.github.io/fr/service/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://ilorobot.github.io/it/service/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://ilorobot.github.io/de/service/"
                 />
     <xhtml:link
                 rel="alternate"

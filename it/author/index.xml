@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors on S en Ciel</title>
-    <link>https://parapentelaclusaz.github.io/it/author/</link>
+    <link>https://ilorobot.github.io/it/author/</link>
     <description>Recent content in Authors on S en Ciel</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>it-IT</language><atom:link href="https://parapentelaclusaz.github.io/it/author/index.xml" rel="self" type="application/rss+xml" />
+    <language>it-IT</language><atom:link href="https://ilorobot.github.io/it/author/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>John Doe</title>
-      <link>https://parapentelaclusaz.github.io/it/author/john-doe/</link>
+      <link>https://ilorobot.github.io/it/author/john-doe/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://parapentelaclusaz.github.io/it/author/john-doe/</guid>
+      <guid>https://ilorobot.github.io/it/author/john-doe/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue.</description>
     </item>
     
     <item>
       <title>Mark Dinn</title>
-      <link>https://parapentelaclusaz.github.io/it/author/mark-dinn/</link>
+      <link>https://ilorobot.github.io/it/author/mark-dinn/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://parapentelaclusaz.github.io/it/author/mark-dinn/</guid>
+      <guid>https://ilorobot.github.io/it/author/mark-dinn/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue.</description>
     </item>
     
