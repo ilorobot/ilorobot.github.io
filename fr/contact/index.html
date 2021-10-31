@@ -348,7 +348,7 @@ if (!doNotTrack) {
 <section class="contact-form">
   <div class="container">
     <div class="row">
-      <form method="POST" name="contact_fr" action="/fr/message_sent" netlify netlify-honeypot="nhp">
+      <form method="POST" name="contact" action="https://formspree.io/f/mrgrooyy">
         <div class="col-md-6 col-sm-12">
           <div class="block">
             <div class="form-group">
@@ -363,9 +363,7 @@ if (!doNotTrack) {
               <label for="subject" hidden>Objet</label>
               <input id="subject" name="subject" type="text" class="form-control" placeholder="Objet" required>
             </div>
-            <div class="form-group-h">
-              <input name="nhp" type="text" class="form-control" placeholder="Are you made of flesh and bone?">
-            </div>
+            
           </div>
         </div>
         <div class="col-md-6 col-sm-12">
@@ -395,13 +393,7 @@ Bretagne, France</div></li>
           </ul>
         </div>
       </div>
-      <div class="col-md-6 col-sm-12">
-        <div class="block">
-          <div class="google-map">
-            <div class="map" id="map" data-latitude="47.99288" data-longitude="-4.09141" data-marker="/images/marker.png" data-marker-name="ilo the robot"></div>
-          </div>
-        </div>
-      </div>
+      
     </div>
   </div>
 </section>
@@ -432,10 +424,6 @@ Bretagne, France</div></li>
   </div>
 </footer>
 	
-
-
-<script defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBchwtAoQWclcm-GRFhEdzESF_WR_meiqQ&libraries=places"></script>
-
 
 
 
