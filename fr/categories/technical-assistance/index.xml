@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Technical Assistance on ilo the robot</title>
-    <link>https://ilorobot.com/fr/categories/technical-assistance/</link>
+    <link>https://ilorobot.github.io/fr/categories/technical-assistance/</link>
     <description>Recent content in Technical Assistance on ilo the robot</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Thu, 01 Apr 2021 00:00:00 +0100</lastBuildDate><atom:link href="https://ilorobot.com/fr/categories/technical-assistance/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 01 Apr 2021 00:00:00 +0100</lastBuildDate><atom:link href="https://ilorobot.github.io/fr/categories/technical-assistance/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Pretty-print dates</title>
-      <link>https://ilorobot.com/fr/blog/date-i18n/</link>
+      <link>https://ilorobot.github.io/fr/blog/date-i18n/</link>
       <pubDate>Thu, 01 Apr 2021 00:00:00 +0100</pubDate>
       
-      <guid>https://ilorobot.com/fr/blog/date-i18n/</guid>
+      <guid>https://ilorobot.github.io/fr/blog/date-i18n/</guid>
       <description>Pour écrire un horodatage ISO 8601 dans la langue courante, vous pouvez utiliser le shortcode date_l10n :</description>
     </item>
     
