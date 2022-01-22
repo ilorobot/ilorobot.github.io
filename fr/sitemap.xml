@@ -351,6 +351,18 @@
                 href="https://ilorobot.github.io/fr/author/"
                 />
   </url><url>
+    <loc>https://ilorobot.github.io/fr/about/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ilorobot.github.io/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://ilorobot.github.io/fr/about/"
+                />
+  </url><url>
     <loc>https://ilorobot.github.io/fr/author/john-doe/</loc>
     <xhtml:link
                 rel="alternate"
@@ -493,18 +505,6 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://ilorobot.github.io/fr/service/"
-                />
-  </url><url>
-    <loc>https://ilorobot.github.io/fr/about/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://ilorobot.github.io/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://ilorobot.github.io/fr/about/"
                 />
   </url>
 </urlset>
